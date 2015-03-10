@@ -1,0 +1,10 @@
+name: Disastrous
+main: ru.xAveR.Disastrous.DisastrousMain
+version: 2.0.0
+permissions:
+    disastrous.death:
+        default: true
+    disastrous.kill:
+        default: true
+    disastrous.immunity:
+        default: false
